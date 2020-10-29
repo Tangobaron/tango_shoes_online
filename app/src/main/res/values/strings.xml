@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Tango Shoes Online</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="action_sign_up_short"><u>Sign up</u></string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="no_account_yet">Don\'t have an account yet?</string>
+    <string name="app_login_title">The Tango Shoe Store</string>
+    <string name="line_tango_shoes">line tango shoes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bienvenido">Bienvenido!</string>
+    <string name="read_instructions"><![CDATA[Press the &quotInstructions&quot button to read the instructions]]></string>
+    <string name="instructions">Instructions</string>
+    <string name="please_read_instructions">Please read the following instructions</string>
+    <string name="press_the_button_to_proceed">Press the button to proceeed</string>
+    <string name="continue_button">Continue</string>
+    <string name="floating_action_button">Floating Action Button</string>
+</resources>
