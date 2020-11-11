@@ -12,13 +12,28 @@
     <string name="no_account_yet">Don\'t have an account yet?</string>
     <string name="app_login_title">The Tango Shoe Store</string>
     <string name="line_tango_shoes">line tango shoes</string>
-    <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
     <string name="bienvenido">Bienvenido!</string>
     <string name="read_instructions"><![CDATA[Press the &quotInstructions&quot button to read the instructions]]></string>
     <string name="instructions">Instructions</string>
     <string name="please_read_instructions">Please read the following instructions</string>
-    <string name="press_the_button_to_proceed">Press the button to proceeed</string>
+    <string name="press_the_button_to_proceed">Press the button to proceed</string>
     <string name="continue_button">Continue</string>
     <string name="floating_action_button">Floating Action Button</string>
+    <string name="tango_shoes_store">Tango Shoes Store</string>
+    <string name="log_out">Log Out</string>
+    <string name="quote_format">\"%s\"</string>
+    <string name="shoe_label">Label</string>
+    <string name="enter_shoe_label">Enter Shoe Label</string>
+    <string name="Shoe_Name">Name</string>
+    <string name="enter_shoe_name">Enter Shoe Name</string>
+    <string name="company">Company</string>
+    <string name="enter_shoe_company">Enter Shoe Company</string>
+    <string name="shoe_size">Shoe Size</string>
+    <string name="enter_shoe_size">Enter Shoe Size</string>
+    <string name="save">Save</string>
+    <string name="description">Description</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="cancel">cancel</string>
 </resources>
